@@ -1,6 +1,6 @@
 # Copyright © 2026 Andrew R. Crocker
 # Lesson 1: "What's Wrong With You?" — Visual assets
-# Notes from the Abstract — Medical Coding Fundamentals
+# Notes from the Abstracts — Medical Coding Fundamentals
 # R code available on GitHub.
 
 library(ggplot2)

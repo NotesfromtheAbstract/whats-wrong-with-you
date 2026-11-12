@@ -1,11 +1,11 @@
 # Medical Coding Fundamentals — Lesson 1: "What's Wrong With You?"
 
-**Notes from the Abstract**  
+**Notes from the Abstracts**  
 andrewrcrocker.substack.com
 
 ## About
 
-This repository contains the article text, R visualization code, and rendered chart assets for Lesson 1 of the Medical Coding Fundamentals series published at *Notes from the Abstract*.
+This repository contains the article text, R visualization code, and rendered chart assets for Lesson 1 of the Medical Coding Fundamentals series published at *Notes from the Abstracts*.
 
 The lesson introduces ICD-10-CM through the anatomy of a single code (E11.9 / E11.319 / E11.3211), the structure of the classification system (Alphabetic Index and Tabular List), and the coding workflow, using the fictional patient Dale Hammond as a recurring case study.
 
