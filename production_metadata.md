@@ -1,5 +1,5 @@
 # Lesson 1 Production Package — "What's Wrong With You?"
-# Notes from the Abstract — Medical Coding Fundamentals
+# Notes from the Abstracts — Medical Coding Fundamentals
 
 ## Meta Description (~145 characters)
 Every diagnosis needs a code. This lesson takes apart a single ICD-10-CM code character by character and shows what each one means for Dale Hammond.
